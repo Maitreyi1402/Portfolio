@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #f8f9fa;
+}
+.btn-success {
+    background-color: #198754;
+    border: none;
+}
+.btn-outline-success {
+    border-color: #198754;
+    color: #198754;
+}
+#home {
+    background: #f0f0f0;
+    padding: 50px 0;
+}
+#about {
+    text-align: center;
+}
+#about img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+#services .border {
+    background: #fff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+#projects .border {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+footer {
+    background: #f8f9fa;
+    padding: 30px 0;
+}
